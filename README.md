@@ -12,5 +12,12 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
+## Current Project Layout
+
+- `src/backend`: FastAPI backend and API routes
+- `src/frontend`: Static frontend served by the backend
+- `src/database/schema.sql`: Initial relational schema draft for future Campus Club work
+- `src/app.py`: Local development entrypoint
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
