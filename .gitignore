@@ -24,6 +24,7 @@
 ######################
 *.log
 *.sql
+!src/database/schema.sql
 *.sqlite
 
 # OS generated files #
